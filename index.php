@@ -5,7 +5,7 @@
     
 -->
 
-<html class="no-js" lang="">
+<html class="no-js">
 
 <head>
     <meta charset="utf-8">
